@@ -1,0 +1,49 @@
+Please check the Civic Signal Hub codebase for the following critical design features and ethical safeguards based on July 10th updates:
+
+1. **Field Agreement Modal**
+   - Confirm it's shown at first login AND before initiating key actions (e.g., loop creation, voting, invitations).
+   - Confirm the agreement stores a `fieldAgreementSigned: true` flag per user.
+   - Confirm the language is reflective, not legalistic.
+
+2. **Reframe of Scoring to Field Reflections**
+   - Trust Score should now be named "Signal Integrity"
+   - Coherence Score should be renamed "Field Pulse" or similar
+   - Ensure no numerical grades are publicly shown for individuals
+
+3. **Private Self-Check Tools**
+   - Self-reflection or health tools must default to private mode
+   - Confirm presence of a toggle:  
+     `Would you like to share this? [ ] Yes [x] No`
+   - Ensure user reflection data is never auto-shared or indexed
+
+4. **Trust and Fairness Circles (Human-led)**
+   - Check that automated ranking systems are **disabled or removed**
+   - Confirm templates or routes for:
+     - Loop Reflection Summary
+     - Hosting Trust Circles
+   - Ensure trust or fairness metrics are only surfaced via voluntary, human-led input
+
+5. **AI Transparency**
+   - AI-generated prompts must include labels like:  
+     `This was suggested by pattern recognition. You may discard.`
+   - Confirm user interface includes reject/edit/discard options
+
+6. **“Lean-In” Feature**
+   - Confirm presence of “Lean In” button on user dashboard
+   - Options should include:
+     - Add side work
+     - Ask for sanctuary
+     - View open loops
+     - Reconnect with pod
+
+7. **Tone and Language Softening**
+   - Replace all instances of “scoring,” “task tracking,” or “performance” with:
+     - “Reflection,” “Signal,” “Loop,” or “Field Pulse”
+   - Dashboard titles should center the **field**, not the individual
+
+8. **Field Ethos Display**
+   - Confirm the presence of a visible field ethos (e.g., in footer, modal, or onboarding)
+   - Example quote:  
+     `This is a mirror, not a rubric. We reflect. We repair. We don’t surveil.`
+
+Please summarize any missing, partially implemented, or out-of-alignment features based on this list.

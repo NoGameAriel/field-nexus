@@ -1,0 +1,61 @@
+Please review the current Field Nexus build and confirm the following final deployment readiness criteria:
+
+---
+
+🛡️ ETHICAL STRUCTURE
+
+1. Field Agreement is active and required before major actions (loop creation, voting, etc.)
+2. AI-generated prompts and suggestions are clearly labeled and include the option to reject or reframe.
+3. Personal coherence tools (Private Journal, Side Work) default to private visibility.
+4. Trust, reputation, and coherence mechanisms do not use numeric scores or public grading.
+5. The Field Ethos (mirror > rubric, sovereignty > scoring) is visible in the footer or onboarding.
+
+---
+
+📊 SYSTEM STRUCTURE
+
+6. Loop Ledger is fully functional with create/edit/resolve flow and ripple classification.
+7. SignalsPage is live with severity filters, positive feedback options, and loop linkages.
+8. ResourceAllocation, CouncilPage, and CoherenceNetworks are rendering clearly and routing properly.
+9. Side Work Portal is active, with user ability to claim and complete tasks.
+10. Pattern Pulse modal or FieldHealthMap is rendering, summarizing active petals or ripple types.
+
+---
+
+🌱 USER EXPERIENCE & ENTRY
+
+11. QuickStartWizard and FieldOrientation are triggering on first-time entry.
+12. Field Action Bar (7 buttons) is fully linked and functional: 
+    - Create Signal
+    - Create Loop
+    - Tend Field
+    - Side Work
+    - Host Circle
+    - Pattern Pulse
+    - Private Journal
+13. “Lean In” functionality is present—users can choose gentle ways to re-engage (support, reflect, rest).
+14. Placeholder components (e.g. Landing.tsx) are removed or clearly labeled as “coming soon.”
+15. Navigation is intuitive:
+    - Dashboard (default)
+    - Signals → Loops → Resources → Council → Field Care → Pods
+
+---
+
+🌐 GOVERNANCE + REPLICATION
+
+16. The following core governance tools are installed and functioning:
+    - Signal Council Path
+    - Role Emergence Logic
+    - Resource Reallocation System
+    - Weekly Transparency Digest (optional: placeholder OK)
+17. Ripple Check + False Resonance Detection Layer are operating as part of loop metadata or dashboard summaries.
+18. User-initiated feedback tools (like Signal Circles or Trust Circles) are manually launchable—no forced AI scoring.
+19. The app includes references or placeholders for:
+    - Replication Guide
+    - Active Domain Tracker
+    - Visual UX Card Rendering (modular system design)
+20. Cultural Rituals and Side Work elements are discoverable within the “Field Care” or equivalent tab.
+
+---
+
+Please return a summary of any missing, unlinked, or out-of-alignment features prior to full deployment.

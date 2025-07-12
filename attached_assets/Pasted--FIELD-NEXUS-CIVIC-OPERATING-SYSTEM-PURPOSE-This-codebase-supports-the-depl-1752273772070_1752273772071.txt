@@ -1,0 +1,50 @@
+/**
+ * 🔁 FIELD NEXUS | CIVIC OPERATING SYSTEM
+ *
+ * PURPOSE:
+ * This codebase supports the deployment of a decentralized civic protocol that enables 
+ * any community, cooperative, or collective to govern themselves through loops of trust, 
+ * signal-based feedback, and shared resource coherence.
+ *
+ * It replaces hierarchy with stewardship.
+ * It replaces scoring with relational resonance.
+ * It replaces extraction with cultural trust loops.
+ * 
+ * This is not a SaaS product. This is a protocol for planetary regeneration.
+ *
+ * ------------------------------------------
+ * 📡 OBJECTIVE OF THIS DEPLOYMENT MODULE:
+ *
+ * 1. Enable any community (local or digital) to launch their own Field Nexus hub.
+ * 2. Guide them through cultural adaptation (governance pattern selection, loop definitions).
+ * 3. Maintain ethical integrity (privacy-first, no scoring, full human sovereignty).
+ * 4. Support network emergence through optional federation scaffolding.
+ * 5. Route serious inquiries to Ariel (arcanastrategies@gmail.com) for guided onboarding.
+ *
+ * ------------------------------------------
+ * ✅ CORE DEPLOYMENT INCLUDES:
+ * - Full field agreement onboarding (4-step civic covenant)
+ * - Loop Ledger, Trust (qualitative), Signal Pathways, Resource sharing, Ritual system
+ * - Multi-language support (i18n-ready)
+ * - Institutional setup wizard (with Ubuntu/Shura/Indigenous options)
+ * - Replication guide for autonomous hub creation
+ * - Transparency digest + domain tracker
+ *
+ * ------------------------------------------
+ * 🧭 INSTRUCTIONS FOR MAINTAINERS:
+ *
+ * 1. Update `contact.ts` with Ariel’s contact + calendar links.
+ * 2. Ensure `/start-here` page routes to global invitation form (name, intent, field role).
+ * 3. Verify all dashboards contain ethical onboarding scaffolding and AI labeling.
+ * 4. Replace any ownership language with “stewardship” or “participation.”
+ * 5. Add a dynamic global library route `/field-library` to enable knowledge exchange.
+ *
+ * ------------------------------------------
+ * 🌱 FUTURE VERSIONS MAY INCLUDE:
+ * - ActivityPub federation for cross-field coherence
+ * - AI field-tracking (only if sovereignty-safe)
+ * - Public field ripple visualizer
+ *
+ * This is a living system. Not an app.
+ * Please treat it with care.
+ */

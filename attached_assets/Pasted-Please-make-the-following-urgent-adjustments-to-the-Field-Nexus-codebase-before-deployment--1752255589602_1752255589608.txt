@@ -1,0 +1,62 @@
+Please make the following urgent adjustments to the Field Nexus codebase before deployment:
+
+---
+
+🚨 1. TRUST SYSTEM ETHICAL FIX (BLOCKER)
+
+Update the TrustSystem component to **remove all numerical scoring** (e.g. 2.4, 3.1) and **replace with qualitative trust states**.
+
+❏ Replace numeric values with 4 visual/semantic states:
+- "Rooted" → stable, consistent care
+- "Emerging" → new or low signal participant
+- "Dormant" → inactive or paused
+- "Tending" → currently rebuilding trust via side work
+
+❏ Display via:
+- Icons (e.g. 🌱, 🌿, 💤, 🔧)
+- Colors or pulsing glow (optional)
+- Tooltip or hover: “This trust state is based on voluntary field activity, not a score.”
+
+❏ Ensure **trust state is visible only to the user and their pod**, NOT globally public
+
+---
+
+🌀 2. REPLICATION SYSTEM PLACEHOLDERS (Add before deployment)
+
+❏ Create new route/page: `/replication` with placeholder guide text:
+- Title: “Start a New Nexus”
+- Section: “How to Replicate This Hub”
+- Add a simple checklist or call to action
+- Optional markdown viewer for documentation import
+
+❏ Create new component: `ActiveDomainTracker.tsx`
+- Displays basic list of system domains (e.g. Trust, Care, Resources)
+- Each shows:
+   - Loops active in domain (placeholder number)
+   - Button: “Mark domain as Frozen / Active”
+   - Last update timestamp (hardcoded or simulated for now)
+
+❏ Create placeholder page: `/transparency-digest`
+- Displays:
+   - Funding flow summary (mocked)
+   - Pod contributions
+   - Top loop activity this cycle
+   - Placeholder “Coming Soon” badge
+
+❏ Link these 3 new features in dashboard footer or internal nav panel for internal use
+
+---
+
+🧭 3. LANDING PAGE CLEANUP (Low Priority)
+
+❏ If `Landing.tsx` is not routed, either:
+- Delete the file
+- Or route it to `/welcome` and turn it into a public intro page (Field Ethos, Invitation to Join, Overview)
+
+---
+
+Please return a confirmation once:
+- TrustSystem no longer displays numeric scores
+- Replication route and components exist
+- Transparency Digest is scaffolded
+- Landing.tsx is either removed or properly routed
