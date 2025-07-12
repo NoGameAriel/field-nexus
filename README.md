@@ -74,7 +74,7 @@ Access shared governance patterns, practices, and stories from communities world
 - Privacy-first design with no centralized data collection
 - Human sovereignty respected at all levels
 
-## 🛡️ Ethical Principles
+##  Ethical Principles
 
 ### Human Sovereignty
 - AI supports but never replaces human discernment and consent
@@ -91,7 +91,7 @@ Access shared governance patterns, practices, and stories from communities world
 - No numeric scoring or gamification
 - Relational trust earned through live dialogue and shared action
 
-## 📋 Deployment Requirements
+## Deployment Requirements
 
 ### System Requirements
 - Node.js 18+ 
@@ -106,7 +106,7 @@ NODE_ENV=production
 PORT=5000
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Field Nexus welcomes contributions that advance regenerative governance patterns:
 
@@ -129,7 +129,7 @@ Field Nexus welcomes contributions that advance regenerative governance patterns
 - **[API Documentation](docs/api.md)**: Backend API reference
 - **[Component Library](docs/components.md)**: Frontend component guide
 
-## 🌱 Community
+## Community
 
 ### Get Support
 - **Email**: arcanastrategies@gmail.com (48-hour response)
@@ -143,13 +143,13 @@ Field Nexus welcomes contributions that advance regenerative governance patterns
 - **1,423 Governance Patterns** in the commons
 - **Human Sovereignty** maintained at all levels
 
-## 📄 License
+## License
 
 Field Nexus is released under the [MIT License](LICENSE). 
 
 **Important**: Field Nexus is a shared protocol for coherence. It is stewarded, not owned. Each deployment is autonomous and belongs fully to its community.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Field Nexus emerged from the lived experience of communities worldwide seeking to transition from hierarchical to regenerative governance. Special appreciation to:
 
