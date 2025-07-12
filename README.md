@@ -1,10 +1,10 @@
-# 🔁 Field Nexus | Civic Operating System
+# Field Nexus | Civic Operating System
 
 **A decentralized protocol for planetary regeneration**
 
 Field Nexus enables any community, cooperative, or collective to govern themselves through loops of trust, signal-based feedback, and shared resource coherence. It replaces hierarchy with stewardship, scoring with relational resonance, and extraction with cultural trust loops.
 
-## 🌍 Purpose
+## Purpose
 
 This is not a SaaS product. This is a protocol for planetary regeneration that any community can deploy autonomously while participating in a global federated network of governance knowledge.
 
@@ -13,7 +13,7 @@ This is not a SaaS product. This is a protocol for planetary regeneration that a
 - **Replace Scoring** → With relational resonance and trust loops  
 - **Replace Extraction** → With cultural trust and regenerative patterns
 
-## 🚀 Quick Start
+## Quick Start
 
 ### For Communities Ready to Deploy
 
@@ -42,7 +42,7 @@ npm run db:push
 npm run dev
 ```
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Technology Stack
 - **Frontend**: React + TypeScript + Vite
@@ -60,7 +60,7 @@ npm run dev
 - **Trust Networks**: Qualitative relationship building (no numeric scoring)
 - **Field Rituals**: Cultural strengthening practices
 
-## 🌐 Global Network Features
+## Global Network Features
 
 ### Field Library
 Access shared governance patterns, practices, and stories from communities worldwide:
